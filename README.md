@@ -1,6 +1,6 @@
-# CA682-Data-Visualization-Assignment
+# CA682-Data-Visualization
 
-This is a visualization assignment for CA682, done by `Fatima-Zahra Atmani` and `Lydia Sanyu Naggayi`.
+This is a data visualization project that is part of a study on countries' contributions to greenhouse gas emissions versus the impact that climate change has had on them so far.
 <br/>
 
-**Note**: The `Plotly` graphs/charts in the notebooks do not appear when viewed on GitHub. In order to view them, please use [nbviewer](https://nbviewer.org/). An **nbviewer** link is provided at the top of each notebook file.
+**Note**: Please use [nbviewer](https://nbviewer.org/) to view the `Plotly` graphs/charts in the notebooks. An **nbviewer** link is provided at the top of each notebook file.
